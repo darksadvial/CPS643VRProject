@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Ryerson University, Department of Computer Science <br/>
+CPS 643 Virtual Reality <br/>
+VR Robot Arm simulator <br/>
+Karl Dadivas <br/>
+500345383 <br/>
+<h1>
+
+<h2>Project Description<h2>
+
+<p1>A simulation of the Canada Arm 2 and implementation of forward gradients to solve inverse kinematic animation. The player is able to control the robotic armm by moving a ball in space. The robot arm follows the ball and applies an algorithm to solve the correct angles of each joint to match the position of the ball.(This is done per frame). The tip of the arm is able to interact with objects by colliding with yellow cubes. The goal of the game is to grab the satellite module with the robot arm and place it on the space station. The player will control two robotic arms positioned on different parts of the environment to attach the module onto the space station.<br/></p1>
+
+
+<p2>Project Video: <a href="https://youtu.be/nOG8LbYInzg">https://youtu.be/nOG8LbYInzg</a><br/></p2>
+
+<p3>algorithm used: <a href="https://www.alanzucconi.com/2017/04/10/robotic-arms/">https://www.alanzucconi.com/2017/04/10/robotic-arms/</a></p3>
+
+
+</body>
+</html>
